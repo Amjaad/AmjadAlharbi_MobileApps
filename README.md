@@ -1,2 +1,10 @@
 # AmjadAlharbi_MobileApps
-ATLS-4120 - Mobile Application Development Class
+Mobile Application Development Class
+
+- IOS Labs:
+	- Lab 1: A Simple Weather App (Prototype)
+		- ![alt text](https://drive.google.com/file/d/0B34kk-eNZGjKbTdUbnpSRlB5Q2c/view?usp=sharing)
+		
+	- Lab 2: Smart Home App  
+
+ 
