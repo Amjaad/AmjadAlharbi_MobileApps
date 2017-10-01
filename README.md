@@ -8,6 +8,6 @@ Mobile Application Development Class
 		 
 	- Lab 2:
 	Smart Home App (Prototype)  
- ![alt-text-1](screen_shots/smartHome.png)
+ ![alt-text-1](screen_shots/smart_home.png)
  - Lab 3: Monthly Expense Calculator
  - ![alt-text-1](screen_shots/mexpense.png)
