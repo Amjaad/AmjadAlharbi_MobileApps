@@ -3,8 +3,8 @@ Mobile Application Development Class
 
 - IOS Labs:
 	- Lab 1: A Simple Weather App (Prototype)
-		- ![Image](/screen_shots/Screen Shot 2017-09-16 at 11.35.59 PM)
-		
-	- Lab 2: Smart Home App  
-
- 
+		 ![alt-text-1](screen_shots/weather.png)	
+	- Lab 2: Smart Home App (Prototype)  
+ ![alt-text-1](screen_shots/smartHome.png)
+ - Lab 3: Monthly Expense Calculator
+ - ![alt-text-1](screen_shots/mexpense.png)
